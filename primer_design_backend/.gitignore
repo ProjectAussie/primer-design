@@ -1,0 +1,4 @@
+/node_modules
+.env
+.vscode
+/primer3_data
